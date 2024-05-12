@@ -1,0 +1,8 @@
+Libraries:
+pytest
+random
+unittest.mock
+sys
+os
+tabulate
+wcwidth (needed for tabulate)
